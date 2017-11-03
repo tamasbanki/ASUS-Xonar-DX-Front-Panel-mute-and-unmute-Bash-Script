@@ -10,7 +10,7 @@ You'll need ALSA with amixer utility!
 2. Open a terminal and navigate to the folder where is the script file
 3. Make it executable with ```chmod +x alsa-fp-switch.sh```
 4. Run the script with ```./alsa-fp-switch.sh```
-(5.) Create a shortcut with ```Exec= /path/to/file/alsa-fp-switch.sh```
+5. Create a shortcut with ```Exec= /path/to/file/alsa-fp-switch.sh```
 
 ## If the script is not working try the following:
 1. Check your sound card's number with ```cat /proc/asound/cards```
