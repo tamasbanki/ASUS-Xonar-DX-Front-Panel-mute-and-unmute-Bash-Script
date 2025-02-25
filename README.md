@@ -8,4 +8,4 @@
 2.   Open the terminal in the script file's folder
 3.   Make the script executable with `$chmod +x alsa-fp-switch.sh`
 4.   Run the script with `./alsa-fp-switch.sh`
-(5.) Create a shortcut with `Exec= /home/<user>/scripts/alsa-fp-switch.sh`
+5. Create a shortcut with `Exec= /home/<user>/scripts/alsa-fp-switch.sh`
